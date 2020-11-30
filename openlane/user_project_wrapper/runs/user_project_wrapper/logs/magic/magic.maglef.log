@@ -1,0 +1,118 @@
+
+Magic 8.3 revision 87 - Compiled on Mon Nov 23 17:53:03 UTC 2020.
+Starting magic under Tcl interpreter
+Using the terminal as the console.
+Using NULL graphics device.
+Processing system .magicrc file
+Sourcing design .magicrc for technology sky130A ...
+2 Magic internal units = 1 Lambda
+Input style sky130: scaleFactor=2, multiplier=2
+Scaled tech values by 2 / 1 to match internal grid scaling
+Loading sky130A Device Generator Menu ...
+Loading "/openLANE_flow/scripts/magic_maglef.tcl" from command line.
+Reading LEF data from file /project/openlane/user_project_wrapper/runs/user_project_wrapper/results/magic/user_project_wrapper.lef.
+This action cannot be undone.
+LEF read, Line 441 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 441 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 727 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 727 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 1009 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 1009 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 1297 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 1297 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 2414 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 2414 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 2582 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 2582 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 2669 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 2669 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 2758 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 2758 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 2846 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 2846 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 3109 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 3109 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 3155 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 3155 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 3199 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 3199 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 3253 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 3253 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 3301 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 3301 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 3347 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 3347 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 3393 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 3393 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 3439 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 3439 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 3479 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 3479 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 3515 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 3515 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 3552 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 3552 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 3612 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 3612 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 3648 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 3648 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 3688 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 3688 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 3724 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 3724 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 3764 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 3764 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 3808 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 3808 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 3856 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 3856 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 3902 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 3902 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 3950 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 3950 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 4005 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 4005 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 4065 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 4065 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 4120 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 4120 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 4180 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 4180 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 4234 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 4234 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 4288 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 4288 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 4342 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 4342 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 4396 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 4396 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 4514 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 4514 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 4836 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 4836 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 4894 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 4894 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 5093 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 5093 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 5317 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 5317 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 5377 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 5377 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 5692 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 5692 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 5746 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 5746 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 5800 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 5800 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 5862 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 5862 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 6209 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 6209 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 6492 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 6492 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 6693 (Error): Don't know how to parse layer "l1m1_pr_c"
+LEF read, Line 6693 (Error): Try adding this name to the LEF techfile section
+LEF Read:  Further errors will not be reported.
+LEF read: Processed 503148 lines.
+LEF Read: encountered 762 errors total.
+[INFO]: DONE GENERATING MAGLEF VIEW
